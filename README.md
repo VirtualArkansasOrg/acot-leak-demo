@@ -4,4 +4,4 @@
 
 It's part of the ACOT 2026 session "Your Staff Are Already Building Apps with AI: A Governance Model That Works" (Kyle Yancey, Virtual Arkansas). The way to keep this from happening is in the starter template: https://github.com/VirtualArkansasOrg/ai-guardrails-starter
 
-If you found this key: thanks for looking. It's been reported to us already.
+If you found this key: it doesn't work, and we already got the alert.
